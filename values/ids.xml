@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linearLayoutSunset" type="id" />
+    <item name="imageViewSunset" type="id" />
+    <item name="linearLayoutSunrise" type="id" />
+    <item name="imageViewSunrise" type="id" />
+    <item name="linearLayoutWind" type="id" />
+    <item name="linearLayoutCondition" type="id" />
+    <item name="imageViewWind" type="id" />
+    <item name="imageViewCondition" type="id" />
+    <item name="linearLayoutSea" type="id" />
+    <item name="imageViewSea" type="id" />
+    <item name="linearLayoutHumidity" type="id" />
+</resources>

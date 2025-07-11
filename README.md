@@ -12,10 +12,13 @@ A simple yet visually dynamic Weather App built using Android Studio. This app f
 
 ## 📱 Screenshots
 
-![Screenshot 2025-04-10 235945](https://github.com/user-attachments/assets/bd60d2f3-61de-499b-aa16-525724e53122)
-![Screenshot 2025-04-11 000000](https://github.com/user-attachments/assets/ed852568-dfb0-4712-b069-5d6426d23cf1)
-![Screenshot 2025-04-11 000016](https://github.com/user-attachments/assets/d5cac7a5-e9dc-4d9b-affd-6bdffa59af66)
-![Screenshot 2025-04-11 000032](https://github.com/user-attachments/assets/df2e0f1a-be27-455a-8202-1a9ed6eadd50)
+<img width="389" height="827" alt="Screenshot 2025-04-10 235945" src="https://github.com/user-attachments/assets/e3e8a355-bbc6-4007-8b8a-123f917f3a6a" />
+<img width="377" height="817" alt="Screenshot 2025-04-11 000000" src="https://github.com/user-attachments/assets/478cab74-5eb5-4c17-a299-d51a6c8a4a3c" />
+<img width="387" height="808" alt="Screenshot 2025-04-11 000016" src="https://github.com/user-attachments/assets/9847fd62-50a3-4213-96d6-894cbd1bce74" />
+<img width="379" height="821" alt="Screenshot 2025-04-11 000032" src="https://github.com/user-attachments/assets/6b02a8e8-1d34-4921-8a13-257319608d35" />
+
+
+
 
 ## 🛠️ Tech Stack
 
